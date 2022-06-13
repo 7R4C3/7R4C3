@@ -3,6 +3,6 @@
 
 - email: kakashixix0@gmail.com
 - Discord: 7R4C3#1028
-- ![7R4C3's Github Stats](https://github-readme-stats.vercel.app/api?username=7R4C3&show_icons=true&theme=dracula)
+- ![7R4C3's Github Stats](https://github-readme-stats.vercel.app/api?username=7R4C3&show_icons=true&theme=dark)
 
 
